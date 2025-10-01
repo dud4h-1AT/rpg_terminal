@@ -19,4 +19,3 @@ print(loja_fruta,'#tomate removido')
 
 # função items: método de leitura de um dicionário,
 #que separa key e value do mesmo.
-
